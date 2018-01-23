@@ -1,0 +1,3 @@
+[submodule "myskill"]
+	path = myskill
+	url = https://github.com/cclloyd/myskill.git
